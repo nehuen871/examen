@@ -1,0 +1,24 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "examen",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "mongodb": "^3.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehuen871/examen.git"
+  },
+  "author": "nehuen navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nehuen871/examen/issues"
+  },
+  "homepage": "https://github.com/nehuen871/examen#readme"
+}
